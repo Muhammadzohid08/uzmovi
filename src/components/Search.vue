@@ -12,94 +12,93 @@
         class="container w-full h-full flex justify-center items-center gap-2 overflow-hidden"
       >
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
+        /><img
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
+          src="../../public/docktor.jpeg"
+          alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
+          style="transition: 0.2s all ease;"
         />
         <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
+          class="w-[59px] rounded-full border-[2px] border-[#6A7B95] cursor-pointer hover:scale-[1.1]"
           src="../../public/docktor.jpeg"
           alt=""
-        />
-        <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
-          src="../../public/docktor.jpeg"
-          alt=""
-        />
-        <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
-          src="../../public/docktor.jpeg"
-          alt=""
-        />
-        <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
-          src="../../public/docktor.jpeg"
-          alt=""
-        />
-        <img
-          class="w-[59px] rounded-full border-[2px] border-[#6A7B95]"
-          src="../../public/docktor.jpeg"
-          alt=""
+          style="transition: 0.2s all ease;"
         />
       </div>
     </div>
@@ -140,7 +139,7 @@
     </div>
 
         <form class="container w-full h-full flex justify-center items-center px-32">
-            <input type="text" class="w-full border-[1px] border-[#6A7B95] px-5 py-2 text-[14px] text-[#99BBDC] bg-transparent outline-none rounded-[5px]" placeholder="Qidirish..." >
+            <input type="text" class="w-full border-[1px] border-[#6A7B95] px-5 py-2 text-[14px] text-[#99BBDC] bg-transparent outline-none rounded-[5px] hover:bg-[#222933]" placeholder="Qidirish..." >
         </form>
   </div>
 </template>
